@@ -1,0 +1,23 @@
+.box {
+    margin-top: 1.5rem;
+    margin-left: 2rem;
+    border-radius: 10px;
+    width: 425px;
+    height: 45px;
+    background-color:#4E9F3D;
+    color: white;
+    border: #191A19;
+    border-style: solid;
+}
+
+.box:hover {
+    color: black;
+    background-color: #D8E9A8 ;
+}
+
+.details {
+    margin-left: 2rem;
+    font-size: x-large;
+    position: absolute;
+    margin-top: 1px;
+}
